@@ -1,4 +1,3 @@
-Zamfir Ovidiu - Ionut 325 CD
 
 		README - Lowest Common Ancestor
 
